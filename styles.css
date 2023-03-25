@@ -1,0 +1,25 @@
+* {
+ box-sizing: border-box;
+ margin: 0;
+ font-family: "Poppins", sans-serif;
+}
+.bgimg {
+ background-image: url(./images/bg-intro-desktop.png);
+ background-color: hsl(0, 100%, 74%);
+}
+
+.cotanier {
+ display: flex;
+ justify-content: space-around;
+}
+
+.learn {
+ font-size: 2rem;
+ color: white;
+ font-weight: 800;
+}
+
+.text--learn {
+ width: 25rem;
+ height: 25rem;
+}
